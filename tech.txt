@@ -1,0 +1,11 @@
+-React frontend -> sends user response to backend 
+
+backend (node + SQL) 
+-express -> deliver backend content with websockets, broadcasts the responses to all users, REST API for people (us) to create questions 
+-mysql -> SQL queries for the question content 
+
+
+PROMPT: 
+-Static prompts 
+-Dynamic prompt (based on the players in the game)  "Name something <player_x> wouldnt like to wake up with" 
+
